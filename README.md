@@ -16,10 +16,10 @@ QA engineer who builds tools for testers and developers.
       <code>Swift</code> <code>SwiftUI</code> <code>ScreenCaptureKit</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/MikeKiselyov/bug-bounty">bug-bounty</a></h3>
+      <h3><a href="https://github.com/MikeKiselyov/bug-hunt">bug-hunt</a></h3>
       An open source playground for QA engineers: small realistic apps with planted bugs. Explore, mark a bug in two clicks and get it verified automatically.
       <br><br>
-      <a href="https://mikekiselyov.github.io/bug-bounty/"><b>Play in the browser →</b></a>
+      <a href="https://mikekiselyov.github.io/bug-hunt/"><b>Play in the browser →</b></a>
       <br><br>
       <code>TypeScript</code> <code>GitHub Pages</code>
     </td>

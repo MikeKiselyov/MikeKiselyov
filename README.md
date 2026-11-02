@@ -3,6 +3,7 @@
 QA engineer making useful things for myself and others: apps and tools I needed at work or at home, free and open for anyone who needs them too.
 
 <a href="https://www.linkedin.com/in/mike-kiselyov/"><img src="https://img.shields.io/badge/LinkedIn-Mykhailo%20Kyselov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://buymeacoffee.com/mike_kiselyov"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"></a>
 
 ## What I'm building
 
